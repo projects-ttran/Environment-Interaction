@@ -6,6 +6,6 @@ Most games are consistent in positioning and graphics (especially the colors, th
 Most players, including myself, found farming to be a waste of time because it prevents you from enjoying the rest of the game, and this is where the incentive and idea for automation comes in.
 
 This script was created on an old 2018 macro recorder that heavily relies on color detection (pixel colors at coordinates X,Y) before continuing with the next action.
-The macro does not inject anything into the game files (much more efficient but dangerous and hard how to properly exploit due to anti-cheat systems in place) but rather reads the entire monitor which includes the game visuals.
+The macro does not inject anything into the game files (much more efficient but dangerous and hard to properly exploit due to anti-cheat systems in place) but rather reads the entire monitor which includes the game visuals.
 
 NOTE: Requires JitBit Macro Recorder to run, and obviously parameters and actions can be adjusted depending on game environment.
